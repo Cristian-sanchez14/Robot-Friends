@@ -51,6 +51,7 @@ class App extends Component {
             <CardList robots={filteredRobots} />
           </ErrorBoundry>
         </Scroll>
+         <h1 className="f2">by Cristian Sanchez</h1>
       </div>
     )
   }
