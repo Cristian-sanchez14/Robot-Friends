@@ -10,6 +10,8 @@
 // state
 // The Component Lifecycle (https://reactjs.org/docs/react-component.html)
 // children
+// AJAX
+// JSON
 
 ### roboFriends
 
